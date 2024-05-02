@@ -1,0 +1,19 @@
+/* header */
+.books_header{
+    background: linear-gradient(rgba(33,33,33,0.9),rgba(33,33,33,0.7)),url(images/booksalve-bg.jpg) center no-repeat;
+}
+/* header end */
+/* books */
+.books_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15rem 0;
+}
+.books_section .books_list{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/* books end */
